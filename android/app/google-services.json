@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683607279392",
+    "project_id": "notification-b9490",
+    "storage_bucket": "notification-b9490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683607279392:android:548fe5f09cc3eae219b945",
+        "android_client_info": {
+          "package_name": "com.notifaction.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4zP_ZIQvd9G0AKZsb-bNiR2IxXgHXqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
